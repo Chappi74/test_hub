@@ -1,12 +1,12 @@
 {
     "schema_version": "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v2.0.0/admin-schema.json",
-    "name": "Template Forecast Hub",
-    "maintainer": "Consortium of Infectious Disease Modeling Hubs",
+    "name": "Hub Config",
+    "maintainer": "ISI Foundation",
     "contact": {
-        "name": "Joe Bloggs",
-        "email": "j.bloggs@cidmh.com"
+        "name": "Paolo Milano",
+        "email": "paolo.milano@.isi.Infectious"
     },
-    "repository_url": "https://github.com/Infectious-Disease-Modeling-Hubs/hubTemplate",
-    "file_format": ["csv", "parquet"],
-    "timezone": "US/Eastern"
+    "repository_url": "https://github.com/Chappi74/test_hub",
+    "file_format": ["csv"],
+    "timezone": "Europe/Rome"
 }
